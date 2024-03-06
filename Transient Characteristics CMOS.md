@@ -1,3 +1,5 @@
+### Code
+``` Netlist
 //Transient characteristics of a CMOS using BSIM technology
 
 vin 1 0 PULSE(0 5 0 1n 1n 5n 12n 4)
@@ -20,3 +22,9 @@ Mn 2 1 0 0 CMOSN L=3U W=47U
 + NFS=2.77E+11 NEFF=1.001 NSS=1.000000E+10 TPG=-1.000000
 + RSH=88.940000 CGDO=2.712940E-10 CGSO=2.712940E-10 CGBO=3.651103E-10
 + CJ=2.375000E-04 MJ=0.532556 CJSW=2.707600E-10 MJSW=0.252466 PB=0.800000
+```
+### Output
+#### Rise Time
+![image](https://github.com/userofmeet27/Netlist/assets/154442221/566a6147-846b-4e69-8a04-1cc3b9ef8e2f)
+#### Fall Time
+![image](https://github.com/userofmeet27/Netlist/assets/154442221/9986723f-9066-4fa8-9723-12128e32ab6f)
