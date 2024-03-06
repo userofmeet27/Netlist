@@ -1,3 +1,5 @@
+### Code
+```Ltspice
 //To verify the output of the circuit
 
 vin 1 0 0      
@@ -20,7 +22,12 @@ Mn 2 1 0 0 CMOSN L=3U W=47U
 + NFS=2.77E+11 NEFF=1.001 NSS=1.000000E+10 TPG=-1.000000
 + RSH=88.940000 CGDO=2.712940E-10 CGSO=2.712940E-10 CGBO=3.651103E-10
 + CJ=2.375000E-04 MJ=0.532556 CJSW=2.707600E-10 MJSW=0.252466 PB=0.800000
+```
+### Output 
+![image](https://github.com/userofmeet27/Netlist/assets/154442221/6a4dcd27-808a-4a84-82b9-9126b7f280bf)
 
+### Code
+```Netlist
 //To find the midpoint voltage i.e for DC characteristics:-
 
 vin 1 0
@@ -43,3 +50,6 @@ Mn 2 1 0 0 CMOSN L=3U W=47U
 + NFS=2.77E+11 NEFF=1.001 NSS=1.000000E+10 TPG=-1.000000
 + RSH=88.940000 CGDO=2.712940E-10 CGSO=2.712940E-10 CGBO=3.651103E-10
 + CJ=2.375000E-04 MJ=0.532556 CJSW=2.707600E-10 MJSW=0.252466 PB=0.800000
+```
+### Output
+![image](https://github.com/userofmeet27/Netlist/assets/154442221/3e84d155-d48d-4169-924a-59b5a8160841)
