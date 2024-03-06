@@ -52,4 +52,5 @@ Mn 2 1 0 0 CMOSN L=3U W=47U
 + CJ=2.375000E-04 MJ=0.532556 CJSW=2.707600E-10 MJSW=0.252466 PB=0.800000
 ```
 ### Output
-![image](https://github.com/userofmeet27/Netlist/assets/154442221/3e84d155-d48d-4169-924a-59b5a8160841)
+![image](https://github.com/userofmeet27/Netlist/assets/154442221/d2373d0a-beff-443d-ad66-946283cf69e6)
+
