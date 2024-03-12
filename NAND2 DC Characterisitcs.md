@@ -1,6 +1,5 @@
 ### Code
 ``` Netlist
-//Circuit verification
 
 v1 1 0 5
 vdd 4 0 5
